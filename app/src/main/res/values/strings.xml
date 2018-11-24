@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Inclass07</string>
+    <string name="title">Chat Room</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="fname">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="password">Choose password</string>
+    <string name="repeat">Repeat password</string>
+    <string name="msg_title">Message Threads</string>
+    <string name="name">Bob Smith</string>
+    <string name="current_threads">Current Threads</string>
+    <string name="add_new_thread">Add New Thread</string>
+    <string name="title_activity_chatroom">ChatroomActivity</string>
+</resources>
